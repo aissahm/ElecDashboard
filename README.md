@@ -6,11 +6,19 @@ For the dashboard to run, a user account is needed from the Konker platform, as 
 
 This project was developed using React for the front-end as always as Node.js for the backend.
 
-# Install
+# To install all dependencies from the package.json file
 
 Simply download the folder practical-react.
 
-# On the terminal: 
-Open the terminal, and go where the folder practical-react is located. From there, simply run this command line : 
+Open the terminal, go inside the practical-react folder. There should be the package.json file. From there, simply run this command line : 
+
+npm install 
+
+This will install all the dependencies to run the application.
+
+# Run the application 
+Simply run this command line : 
 
 npm start
+
+It will open a new page and you will be redirected to the login page.

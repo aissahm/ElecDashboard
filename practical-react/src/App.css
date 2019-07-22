@@ -1,0 +1,55 @@
+
+.NavBarComponent{
+  background-color: #F8F8FF;
+}
+
+.DashboardComponent{
+  padding-top: 80px;
+}
+
+.LoginComponent{
+  text-align: center;
+  padding-top: 10%;
+  padding-left: 30%;
+  padding-right: 30%;
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: right;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+#loginButton{
+  color: white;
+  margin-bottom: 30px;
+}
+
+h1{
+  padding-bottom: 30px;
+  color: #696969 ;
+}
+
+#descriptionText{
+  padding-bottom: 30px;
+  color:#808080;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#alertMessage{
+  font-size: 0.7em;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

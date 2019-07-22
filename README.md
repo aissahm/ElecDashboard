@@ -1,4 +1,4 @@
-# ElecDashboard
+# Energy Consumption Dashboard
 
 A front-end application displaying energy information and consumption from a building with 6 apartments. 
 
@@ -11,4 +11,6 @@ This project was developed using React for the front-end as always as Node.js fo
 Simply download the folder practical-react.
 
 # On the terminal: 
-Open the terminal, and go where the folder practical-react is located. From there, simply run this command line : npm start
+Open the terminal, and go where the folder practical-react is located. From there, simply run this command line : 
+
+npm start
